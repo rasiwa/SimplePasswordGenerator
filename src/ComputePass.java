@@ -13,7 +13,6 @@ public class ComputePass {
 		int charCount = charUsed.length();
 		Random rdr = new Random();
 		StringBuilder str = new StringBuilder();
-		int z = 1;
 		for (int i = 0; i < Length - 1; i++) {
 			str.append(charUsed.charAt(rdr.nextInt(charCount)));
 		}
