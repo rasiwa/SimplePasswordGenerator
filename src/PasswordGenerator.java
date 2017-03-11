@@ -1,5 +1,5 @@
 /**
- * Created by Gema Abriantini on 3/9/2017.
+ * Created by gedeiswara on 3/9/2017.
  */
 public class PasswordGenerator {
     public static void main(String[] args) {
